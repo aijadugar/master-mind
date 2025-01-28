@@ -38,7 +38,7 @@ function experiment2() {
   },
   {
     id: 8,
-    code: `// Experiment 8 code will go here`,
+    code: `There isnt the code thatt you waould like to get , will update in the future update`,
   },
   {
     id: 9,
