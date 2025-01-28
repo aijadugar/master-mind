@@ -1,9 +1,12 @@
 export const experiments = [
   {
     id: 1,
-    code: `// Experiment 1 code will go here
+    code: `// Experiment 1 by Yash Kerkar
 function experiment1() {
-  console.log("This is experiment 1");
+  let arr=[1,2,true,"Yash"];
+  for (let i=0;i<arr.length;i++){
+    console.log(arr[i]);
+  }
 }`,
   },
   {
