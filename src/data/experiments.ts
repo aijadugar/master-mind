@@ -42,7 +42,12 @@ function experiment2() {
   },
   {
     id: 9,
-    code: `// Experiment 9 code will go here`,
+    code: `#include<stdio.h>
+        int main() {
+        printf("experiment 9");
+        return 0;
+}
+`,
   },
   {
     id: 10,
